@@ -1,0 +1,11 @@
+Ignore data files to protect patient confidentiality
+data/raw/.sas7bdat
+data/raw/.csv
+data/processed/*.rds
+
+Ignore R history and project files
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.DS_Store
